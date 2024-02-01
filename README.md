@@ -1,4 +1,4 @@
-```markdown
+
 # Windows Terminal Emulator
 
 This project is a fully functional terminal emulator application for Windows.
