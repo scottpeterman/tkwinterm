@@ -10,6 +10,11 @@ This project is a fully functional terminal emulator application for Windows.
 - Support for text-based UI applications like `VIM` and `htop` will work when ssh'd to a linux host.
 - Customizable appearance and behavior.
 
+## Screen Shots
+<div align="center">
+  <hr><img src="https://github.com/scottpeterman/tkwinterm/raw/main/screenshots/win1.png" alt="Window with color" width="400px">
+</div>
+
 ## Libraries Used
 
 - `tkinter`: Standard GUI toolkit for Python used for the application interface.
